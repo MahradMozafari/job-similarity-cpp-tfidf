@@ -9,7 +9,7 @@ It provides a hands-on demonstration of basic natural language processing and in
 
 ---
 
-## 🧠 Overview
+## 🧠 Overview 
 
 The program performs the following steps:
 
